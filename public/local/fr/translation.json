@@ -1,0 +1,21 @@
+{
+    "welcome": "Bienvenue",
+    "description": "Ceci est une page React multilingue.",
+    "questionnaire_table": "Tableau des questionnaires",
+    "loading": "Chargement...",
+    "name": "Nom",
+    "start_date": "Date de début",
+    "end_date": "Date de fin",
+    "comments": "Commentaires",
+    "status": "Statut",
+    "created": "Créé",
+    "action": "Action",
+    "delete": "Supprimer",
+    "confirm_delete": "Êtes-vous sûr de vouloir supprimer cet élément ?",
+    "delete_success": "Élément supprimé avec succès !",
+    "delete_error": "Erreur lors de la suppression de l'élément.",
+    "not_available": "N/D",
+    "no_comments": "Aucun commentaire disponible",
+    "no_status": "Aucun statut disponible"
+  }
+  

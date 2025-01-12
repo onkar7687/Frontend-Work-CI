@@ -1,0 +1,21 @@
+{
+    "welcome": "Welcome",
+    "description": "This is a multilingual React page.",
+    "questionnaire_table": "Questionnaire Table",
+    "loading": "Loading...",
+    "name": "Name",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "comments": "Comments",
+    "status": "Status",
+    "created": "Created",
+    "action": "Action",
+    "delete": "Delete",
+    "confirm_delete": "Are you sure you want to delete this item?",
+    "delete_success": "Item deleted successfully!",
+    "delete_error": "Error deleting the item.",
+    "not_available": "N/A",
+    "no_comments": "No comments available",
+    "no_status": "No status available"
+  }
+  

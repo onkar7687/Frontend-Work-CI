@@ -1,0 +1,20 @@
+{
+    "welcome": "स्वागत",
+    "description": "यह एक बहुभाषी प्रतिक्रिया पृष्ठ है.",
+    "questionnaire_table": "प्रश्नावली तालिका",
+    "loading": "लोड हो रहा है...",
+    "name": "नाम",
+    "start_date": "आरंभ करने की तिथि",
+    "end_date": "अंतिम तिथि",
+    "comments": "टिप्पणियाँ",
+    "status": "स्थिति",
+    "created": "बनाया था",
+    "action": "कार्रवाई",
+    "delete": "मिटाना",
+    "confirm_delete": "क्या आप सुनिश्चित रूप से इस आइटम को मिटाना चाहते हैं?",
+    "delete_success": "आइटम सफलतापूर्वक हटा दिया गया!",
+    "delete_error": "Error deleting the item.",
+    "not_available": "N/A",
+    "no_comments": "No comments available",
+    "no_status": "No status available"
+  }
